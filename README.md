@@ -24,6 +24,4 @@ Requirements
 
 Install dependencies with:
 
-bash
-
-pip install qiskit[visualization]==1.0.2
+    pip install qiskit[visualization]==1.0.2
