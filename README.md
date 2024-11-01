@@ -24,4 +24,5 @@ Requirements
 
 Install dependencies with:
 
-    pip install qiskit[visualization]==1.0.2
+    %pip install qiskit[visualization]==1.0.2
+    %pip install qiskit-aer
