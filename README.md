@@ -18,9 +18,10 @@ Noise Analysis on Quantum Addition: Combines the above to analyze how noise impa
 Usage
 
     Open the provided .ipynb file for a step-by-step explanation and code implementation.
-    Experiment with different α and β values in the noise model to observe their effect on quantum addition results.
+
 
 Requirements
+ Basic understanding of Quantum Computing
 
 Install dependencies with:
 
