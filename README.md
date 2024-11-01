@@ -15,13 +15,10 @@ Noise Analysis on Quantum Addition: Combines the above to analyze how noise impa
         Higher noise reduces accuracy.
         Strategies like error correction, circuit optimization, and noise-aware compilation can mitigate these effects.
 
-Usage
-
-    Open the provided .ipynb file for a step-by-step explanation and code implementation.
+Usage: open the provided .ipynb file for a step-by-step explanation and code implementation.
 
 
-Requirements
- Basic understanding of Quantum Computing
+Requirements: Basic understanding of Quantum Computing
 
 Install dependencies with:
 
